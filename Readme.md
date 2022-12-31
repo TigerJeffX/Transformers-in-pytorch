@@ -109,7 +109,7 @@ python ./run_nmt_task.py multi30k
 ## 4. Results
 ### 4.1 Fine-tuning ViT on imagenet1k, cifar10,
 - This repo
-  - **Imagenet1k : _ACC 84.9%_** (result on 50,000 val set |_resolution 384 | extra label smoothing confidence 0.9 | batch size 160, nearly 15,000 training steps_)
+  - **Imagenet1k : _ACC 84.9%_** (result on 50,000 val set for | _resolution 384 | extra label smoothing confidence 0.9 | batch size 160, nearly 15,000 training steps_)
   > <img src="/readme_supply/imagenet1k_result.png" width=40% height=40%></img>
   - **Cifar10 : _ACC 99.04%_** (_resolution 224 | batch size 640, nearly 5500 training steps_) 
   > <img src="/readme_supply/cifar10_result.png" width=30% height=30%></img>
